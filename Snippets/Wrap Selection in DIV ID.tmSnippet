@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div id="${1:id_name}"&gt;$TM_SELECTED_TEXT&lt;/div&gt;&lt;!-- #${1/\s.*//} --&gt;</string>
+	<key>keyEquivalent</key>
+	<string>^I</string>
+	<key>name</key>
+	<string>Wrap Selection in DIV ID</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>98BC452C-32C6-44A6-B5C8-57A6F69F8557</string>
+</dict>
+</plist>

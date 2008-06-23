@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;fieldset&gt;
+	${1:&lt;legend&gt;$2&lt;/legend&gt;}
+&lt;/fieldset&gt;${3:&lt;!-- $2 --&gt;}$0</string>
+	<key>name</key>
+	<string>Fieldset</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>fieldset</string>
+	<key>uuid</key>
+	<string>F0823372-F995-49A8-8C59-270FB7800794</string>
+</dict>
+</plist>
