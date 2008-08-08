@@ -4,14 +4,14 @@
 <dict>
 	<key>content</key>
 	<string>	&lt;li&gt;${1:&lt;a href="${2:#}"&gt;$3&lt;/a&gt;}&lt;/li&gt;
-&lt;/ul&gt;$0</string>
+&lt;/ol&gt;$0</string>
 	<key>name</key>
-	<string>UL LI</string>
+	<string>OL LI</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>&lt;/ul&gt;</string>
+	<string>&lt;/ol&gt;</string>
 	<key>uuid</key>
-	<string>B813D88B-9F64-4C70-BA58-1FA470426DF2</string>
+	<string>86BD2C42-95D7-4E10-8EB7-F3B9922AD241</string>
 </dict>
 </plist>

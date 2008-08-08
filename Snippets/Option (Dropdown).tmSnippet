@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>	&lt;option value="$2"&gt;$3&lt;/option&gt;
+	<string>	&lt;option value="$2"&gt;${3:$2}&lt;/option&gt;
 &lt;/select&gt;</string>
 	<key>name</key>
 	<string>Option (Dropdown)</string>
