@@ -1,7 +1,7 @@
 To install via Git:
 
     cd ~/"Library/Application Support/TextMate/Bundles/"
-    git clone git://github.com/trey/trey-tmbundle.git "Trey.tmbundle"
+    git clone git://github.com/trey/trey-frontend.tmbundle.git "Trey - Frontend.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
 
 (Instructions stolen from the [GitHub Bundle](http://github.com/drnic/github-tmbundle/tree/master).)
