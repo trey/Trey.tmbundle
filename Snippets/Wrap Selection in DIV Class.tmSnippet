@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="${1:class_name}"&gt;${0:$TM_SELECTED_TEXT}&lt;/div&gt;&lt;!-- .${1/./$0/} --&gt;</string>
+	<string>&lt;div class="${1:class_name}"&gt;${0:$TM_SELECTED_TEXT}&lt;/div&gt;&lt;!-- /${1/./$0/} --&gt;</string>
 	<key>keyEquivalent</key>
 	<string>^C</string>
 	<key>name</key>
