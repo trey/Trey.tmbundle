@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>(function($){ 
 	\$.fn.${1:functionName} = function(${2:options}) {
-		${3:var settings = $.extend({
+		${3:var settings = \$.extend({
 			option1 = defaultValue1,
 			option2 = defaultValue2
 		\},options||{\});}
