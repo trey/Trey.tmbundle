@@ -3,17 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$(function() {
-	${0:// Stuff to do as soon as the DOM is ready;}
-});
-</string>
+	<string>live("${1:click}", function(){
+	$0
+});</string>
 	<key>name</key>
-	<string>jQuery document ready (shorthand)</string>
+	<string>jQuery live event</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>ready</string>
+	<string>live</string>
 	<key>uuid</key>
-	<string>72CF1A4B-C331-4722-BBD8-665A60AD441C</string>
+	<string>6C844F87-43E8-42D0-AF72-B4090C7848EE</string>
 </dict>
 </plist>
