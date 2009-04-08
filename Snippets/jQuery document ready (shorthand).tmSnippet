@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>jQuery document ready (shorthand)</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js.jquery</string>
 	<key>tabTrigger</key>
 	<string>ready</string>
 	<key>uuid</key>
