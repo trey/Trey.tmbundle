@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>display: -moz-inline-box;${1: }display: inline-block;</string>
+	<key>name</key>
+	<string>display: inline-block</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>ib</string>
+	<key>uuid</key>
+	<string>17EBEA27-2027-49DB-A9CE-6DFCA2A85277</string>
+</dict>
+</plist>
