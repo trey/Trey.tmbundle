@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>&lt;select name="$1" id="$1"&gt;
 	&lt;option value="$2"&gt;${3:$2}&lt;/option&gt;
-&lt;/select&gt;$0
-</string>
+&lt;/select&gt;$0</string>
 	<key>name</key>
 	<string>Select (Dropdown)</string>
 	<key>scope</key>
