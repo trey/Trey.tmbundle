@@ -23,9 +23,9 @@
 			<string>2ECC1C3A-4747-47F1-BD6E-99CA4F57ED7E</string>
 			<string>981E925D-C11E-4226-9913-BBC4408E8E77</string>
 			<string>D87BED11-8090-4CBC-835C-C7C5EF4F467C</string>
-			<string>1AC61BE3-CFD5-4526-BF93-E6677A34177B</string>
 			<string>4C2E9FBC-C069-4F0A-A86E-5EED5A9591B0</string>
 			<string>48005BED-67A6-43E4-A5D9-BE98118103CB</string>
+			<string>45C62AE7-1712-43E2-8D02-416AA3731964</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -35,15 +35,13 @@
 				<array>
 					<string>ABE1B9F1-40EA-49DE-9FE6-1C3538220433</string>
 					<string>66498946-3373-404C-B830-09B742DCD093</string>
+					<string>E4AEEF0D-2E5D-45A8-8F54-22EC44F253A9</string>
 					<string>52D37E22-DA52-440E-98F5-92A7347ABCE7</string>
 					<string>BD3789CD-48C2-4702-BCFF-7DC36A8B7587</string>
 					<string>CFA8F108-0E81-48D4-8EA3-441B4890EDBB</string>
 					<string>A7154C6B-5BAF-41C5-B7E5-C4ADA3C53203</string>
 					<string>98BC452C-32C6-44A6-B5C8-57A6F69F8557</string>
 					<string>C3E764C2-C696-4389-8E4D-21A673140D77</string>
-					<string>152C01E6-974F-4FE8-A46E-2919BB064090</string>
-					<string>1F575CD0-4772-4FA2-978A-AFD0CB0BCD09</string>
-					<string>6965D4D5-B883-4966-9850-8D3D2E71FCA1</string>
 				</array>
 				<key>name</key>
 				<string>Markup</string>
@@ -116,6 +114,18 @@
 				<key>name</key>
 				<string>JavaScript</string>
 			</dict>
+			<key>E4AEEF0D-2E5D-45A8-8F54-22EC44F253A9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>152C01E6-974F-4FE8-A46E-2919BB064090</string>
+					<string>6965D4D5-B883-4966-9850-8D3D2E71FCA1</string>
+					<string>1F575CD0-4772-4FA2-978A-AFD0CB0BCD09</string>
+					<string>43930CF4-296E-47AA-B367-0B1225B7CCBB</string>
+				</array>
+				<key>name</key>
+				<string>Tables</string>
+			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
@@ -136,6 +146,7 @@
 		<string>51CE2623-6007-4A4E-87E4-FC41556D84B5</string>
 		<string>B813D88B-9F64-4C70-BA58-1FA470426DF2</string>
 		<string>86BD2C42-95D7-4E10-8EB7-F3B9922AD241</string>
+		<string>43930CF4-296E-47AA-B367-0B1225B7CCBB</string>
 		<string>305EC507-D605-4D0B-98D5-248FBD67BBD9</string>
 		<string>5CF197EC-F0D7-4CA0-B5AD-3C88B789B5F4</string>
 		<string>C8554E52-170E-494F-8741-4444AD5F7578</string>
