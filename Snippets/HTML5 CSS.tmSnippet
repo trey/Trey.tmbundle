@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;!DOCTYPE html&gt;
-</string>
+	<string>header, footer, section, nav, article, aside { display: block; }</string>
 	<key>name</key>
-	<string>HTML 5</string>
+	<string>HTML5 CSS</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>doctype</string>
+	<string>html5</string>
 	<key>uuid</key>
-	<string>52D37E22-DA52-440E-98F5-92A7347ABCE7</string>
+	<string>52FF9927-FA96-466D-A633-6D1BDC3BD6BA</string>
 </dict>
 </plist>

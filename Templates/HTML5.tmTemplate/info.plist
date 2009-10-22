@@ -11,7 +11,7 @@ fi</string>
 	<key>extension</key>
 	<string>html</string>
 	<key>name</key>
-	<string>HTML 5</string>
+	<string>HTML5</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>uuid</key>
