@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>margin: 0;
-padding: 0;</string>
+	<string>margin: 0;${1: }padding: 0;</string>
 	<key>name</key>
 	<string>Reset Element</string>
 	<key>scope</key>
