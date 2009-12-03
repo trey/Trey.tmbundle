@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-border-radius-bottomright: $1px;${2: }-webkit-border-bottom-right-radius: $1px;$0</string>
+	<string>-moz-border-radius-bottomright: $1px;${2: }-webkit-border-bottom-right-radius: $1px;${3: }border-bottom-right-radius: $1px;</string>
 	<key>name</key>
 	<string>CSS3 - Rounded Corner - Bottom Right</string>
 	<key>scope</key>
