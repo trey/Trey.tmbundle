@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>live("${1:click}", function(){
+	<string>live('${1:click}', function(){
 	$0
 });</string>
 	<key>name</key>
