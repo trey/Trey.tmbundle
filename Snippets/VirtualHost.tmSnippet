@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;VirtualHost *:80&gt;
+	DocumentRoot "/Users/`id -un`/${1:Sites}/${2:example}"
+	ServerName $2.dev
+&lt;/VirtualHost&gt;</string>
+	<key>name</key>
+	<string>VirtualHost</string>
+	<key>scope</key>
+	<string>source.apache-config</string>
+	<key>tabTrigger</key>
+	<string>vh</string>
+	<key>uuid</key>
+	<string>C8C84309-540F-44B8-B9FA-5FD0651B3563</string>
+</dict>
+</plist>
