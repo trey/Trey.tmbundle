@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>text-shadow: ${1:1}px ${2:1}px ${3:1}px #${4:000};</string>
+	<string>text-shadow: ${1:0} ${2:1}px ${3:1}px rgba(${4:255},$4,$4,.${5:4});</string>
 	<key>name</key>
 	<string>Text-Shadow</string>
 	<key>scope</key>
