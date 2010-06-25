@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>-moz-border-radius: $1px;${2: }-webkit-border-radius: $1px;${3: }border-radius: $1px;</string>
 	<key>name</key>
-	<string>CSS3 - Rounded Corners</string>
+	<string>Border-Radius</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

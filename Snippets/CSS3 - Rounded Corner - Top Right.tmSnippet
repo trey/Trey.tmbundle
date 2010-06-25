@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>-moz-border-radius-topright: $1px;${2: }-webkit-border-top-right-radius: $1px;${3: }border-top-right-radius: $1px;</string>
 	<key>name</key>
-	<string>CSS3 - Rounded Corner - Top Right</string>
+	<string>Border-Radius - Top Right</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
