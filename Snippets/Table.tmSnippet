@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;table cellspacing="${1:0}"&gt;
-	&lt;tr&gt;&lt;th&gt;${2:Header}&lt;/th&gt;&lt;/tr&gt;
+	<string>&lt;table cellspacing="${1:0}" cellpadding="${2:0}"&gt;
+	&lt;tr&gt;&lt;th&gt;${3:Header}&lt;/th&gt;&lt;/tr&gt;
 	&lt;tr&gt;&lt;td&gt;${0:Data}&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;</string>
 	<key>name</key>
