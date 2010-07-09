@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># no-www
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.+)\$ [NC]
+RewriteRule ^(.*)\$ http://%1/\$1 [R=301,L]</string>
+	<key>name</key>
+	<string>No www</string>
+	<key>scope</key>
+	<string>source.apache-config</string>
+	<key>tabTrigger</key>
+	<string>nowww</string>
+	<key>uuid</key>
+	<string>1B1543C2-43A4-4976-9552-CD8F7634104D</string>
+</dict>
+</plist>
