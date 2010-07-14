@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="http://www.google.com/jsapi" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script type="text/javascript"&gt;google.load('jquery', '${1:1.4.2}');${2:google.load('jqueryui', '1.8.1');}&lt;/script&gt;</string>
+	<string>&lt;script src="http://www.google.com/jsapi"&gt;&lt;/script&gt;
+&lt;script&gt;google.load('jquery', '${1:1.4.2}');${2:google.load('jqueryui', '1.8.1');}&lt;/script&gt;</string>
 	<key>name</key>
 	<string>Google-Hosted jQuery</string>
 	<key>scope</key>
