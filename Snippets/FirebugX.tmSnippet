@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* http://fbug.googlecode.com/svn/branches/firebug1.5/lite/firebugx.js */ if (!window.console || !console.firebug){var names = ["log", "debug", "info", "warn", "error", "assert", "dir", "dirxml","group", "groupEnd", "time", "timeEnd", "count", "trace", "profile", "profileEnd"];window.console = {};for (var i = 0; i &lt; names.length; ++i)window.console[names[i]] = function() {}}</string>
+	<key>name</key>
+	<string>FirebugX</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>fbx</string>
+	<key>uuid</key>
+	<string>F4E82496-0B4A-4F80-A833-E12D965BB69C</string>
+</dict>
+</plist>
