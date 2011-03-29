@@ -4,10 +4,10 @@
 <dict>
 	<key>content</key>
 	<string>switch(${1:id}){
-	case "${2:one}":
+	case '${2:one}':
 		// something
 		break;
-	case "${3:two}":
+	case '${3:two}':
 		// something
 		break;
 	default:
