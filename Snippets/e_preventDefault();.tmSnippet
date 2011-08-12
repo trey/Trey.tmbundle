@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>display: none;</string>
+	<string>e.preventDefault();</string>
 	<key>name</key>
-	<string>display: none</string>
+	<string>e.preventDefault();</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>dn</string>
+	<string>pd</string>
 	<key>uuid</key>
-	<string>C3B59CDE-A4D9-4FD7-8FF3-26A3F8A8100B</string>
+	<string>4FB17F83-71E7-4ACF-9A0B-F3BB63D2C26B</string>
 </dict>
 </plist>
