@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\`\`\` ${1:language} ${2:title url link_text}
+${TM_SELECTED_TEXT}
+\`\`\`</string>
+	<key>keyEquivalent</key>
+	<string>^`</string>
+	<key>name</key>
+	<string>Backtick Code Block</string>
+	<key>scope</key>
+	<string>text.html.markdown</string>
+	<key>uuid</key>
+	<string>30D918ED-7DCF-49D4-8FBC-3AEE8D24A175</string>
+</dict>
+</plist>

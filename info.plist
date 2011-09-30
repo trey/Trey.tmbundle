@@ -23,6 +23,7 @@
 			<string>2ECC1C3A-4747-47F1-BD6E-99CA4F57ED7E</string>
 			<string>981E925D-C11E-4226-9913-BBC4408E8E77</string>
 			<string>D87BED11-8090-4CBC-835C-C7C5EF4F467C</string>
+			<string>6293ADC6-9EC3-4F3F-8BD6-B86F6DE2EAED</string>
 			<string>4C2E9FBC-C069-4F0A-A86E-5EED5A9591B0</string>
 			<string>45C62AE7-1712-43E2-8D02-416AA3731964</string>
 			<string>44F7C392-ED1C-4856-A538-97086527B604</string>
@@ -49,6 +50,15 @@
 				</array>
 				<key>name</key>
 				<string>Markup</string>
+			</dict>
+			<key>6293ADC6-9EC3-4F3F-8BD6-B86F6DE2EAED</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>30D918ED-7DCF-49D4-8FBC-3AEE8D24A175</string>
+				</array>
+				<key>name</key>
+				<string>Octopress</string>
 			</dict>
 			<key>66498946-3373-404C-B830-09B742DCD093</key>
 			<dict>
