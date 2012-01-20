@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>display: block</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>meta.property-list.css</string>
 	<key>tabTrigger</key>
 	<string>db</string>
 	<key>uuid</key>
