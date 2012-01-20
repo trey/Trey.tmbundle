@@ -4,12 +4,12 @@
 
     mkdir -p ~/Library/Application\ Support/Avian/Bundles
     cd !$
-    git clone git://github.com/trey/trey-frontend-tmbundle.git "Trey - Frontend.tmbundle"
+    git clone git://github.com/trey/Trey.tmbundle.git
 
 ### TextMate Version 1.x
 
     cd ~/"Library/Application Support/TextMate/Bundles/"
-    git clone git://github.com/trey/trey-frontend-tmbundle.git "Trey - Frontend.tmbundle"
+    git clone git://github.com/trey/Trey.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
 
 (Original instructions stolen from the [GitHub Bundle](http://github.com/drnic/github-tmbundle/tree/master).)

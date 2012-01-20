@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>contactEmailRot13</key>
+	<string>grkgzngr@gerl.pp</string>
+	<key>contactName</key>
+	<string>Trey Piepmeier</string>
 	<key>deleted</key>
 	<array>
 		<string>7A098C24-BF87-43AC-99F0-83C5C0277F0F</string>
@@ -16,6 +20,8 @@
 		<string>8CD4F815-F6D8-49A7-8E9E-14F4A6E301E5</string>
 		<string>0F2500A6-E5A1-4E9D-97C6-209C645E46DE</string>
 	</array>
+	<key>description</key>
+	<string></string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -58,7 +64,7 @@
 					<string>30D918ED-7DCF-49D4-8FBC-3AEE8D24A175</string>
 				</array>
 				<key>name</key>
-				<string>Octopress</string>
+				<string>Markdown</string>
 			</dict>
 			<key>66498946-3373-404C-B830-09B742DCD093</key>
 			<dict>
@@ -149,7 +155,7 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>Trey - Frontend</string>
+	<string>Trey</string>
 	<key>ordering</key>
 	<array>
 		<string>45C62AE7-1712-43E2-8D02-416AA3731964</string>
