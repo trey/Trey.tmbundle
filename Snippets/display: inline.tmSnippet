@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>display: inline</string>
 	<key>scope</key>
-	<string>meta.property-list.css</string>
+	<string>meta.property-list.css, source.css.less</string>
 	<key>tabTrigger</key>
 	<string>di</string>
 	<key>uuid</key>

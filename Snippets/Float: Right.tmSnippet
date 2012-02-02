@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Float: Right</string>
 	<key>scope</key>
-	<string>meta.property-list.css</string>
+	<string>meta.property-list.css, source.css.less</string>
 	<key>tabTrigger</key>
 	<string>fr</string>
 	<key>uuid</key>
